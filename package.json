@@ -1,0 +1,28 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "rest-dummy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mWind-is/rest-dummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mWind-is/rest-dummy/issues"
+  },
+  "homepage": "https://github.com/mWind-is/rest-dummy#readme",
+  "description": ""
+}
